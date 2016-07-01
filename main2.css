@@ -1,0 +1,15 @@
+facebook {
+	padding: 50px
+}
+
+.cover {
+   width: 100%
+   height: 270px;
+   background-color: white;
+   overflow: hidden;
+}
+.cover > img {
+   width: 100%;
+}
+
+
